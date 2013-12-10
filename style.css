@@ -1,0 +1,74 @@
+.background{
+  color: #000000;
+}
+
+.pageBox{
+  margin: 25px auto 0 auto;
+	padding: 0 0 25px 0;
+	width: 900px;
+}
+
+header{
+  width: 900px;
+	height: 200px;
+	overflow: hidden;
+}
+
+.navigation{
+  float: left;
+	margin-left: 0;
+	margin-bottom: 15px;
+	margin-top: 5px;
+	margin-right: 15px;
+	width: 200px;
+	overflow: hidden;
+}
+
+.plain{
+  list-style-type: none;
+}
+
+.bottomSpace{
+  padding-bottom: 3px;
+}
+
+.buttons{
+	margin-left: 215px;
+}
+
+h1{
+  font-family: Comic Sans MS;
+	color: #009999;
+}
+
+#txtComments{
+  display: block;
+}
+
+p{
+	font-family: Comic Sans MS;
+}
+
+a{
+  font-size:20px;
+  font-weight: bold;
+  color:#009999;
+  text-decoration: none;
+}
+
+.activePage{
+  font-size:20px;
+	font-weight: bold;
+	color:#33CCCC;
+}
+	
+	
+
+footer{
+  clear: both;
+	background-color: #aaaaff;
+	border-top-right-radius: 015px;
+	border-bottom-left-radius: 015px;
+	padding: 0.8em 5.33333333%;
+}
+	
